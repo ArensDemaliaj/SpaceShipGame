@@ -1,7 +1,7 @@
 
 <h1><b>Spaceship game</b></h1>
 
-The game is very simple: the user controls the <b>spaceship<b> with the arrow keys and he/she should
+The game is very simple: the user controls the <b>spaceship</b> with the arrow keys and he/she should
 try to avoid the falling asteroids. The user cannot move the spaceship out of the screen (border
 limits the movement of the ship and if the ship collides with them the border turns red to notify the
 user he cannot move further in that direction). The game screen is 400x600 and based on the
