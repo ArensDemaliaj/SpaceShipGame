@@ -1,5 +1,5 @@
 
-<h1><b>Spaceship game</b><h1>
+<h1><b>Spaceship game</b></h1>
 
 The game is very simple: the user controls the <b>spaceship<b> with the arrow keys and he/she should
 try to avoid the falling asteroids. The user cannot move the spaceship out of the screen (border
